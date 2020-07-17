@@ -1,0 +1,9 @@
+.zoom-card__image {
+    position: relative;
+    min-width: 450px;
+    min-height: 561px;
+    max-width: 80vw;
+    max-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
