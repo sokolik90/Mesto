@@ -19,8 +19,8 @@
   },
   "homepage": "https://sokolik90.github.io/Mesto/",
   "devDependencies": {
-    "@babel/cli": "^https://stasbasov.github.io/form/",
-    "@babel/core": "^7.10.5",
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
     "autoprefixer": "^9.8.5",
     "babel-loader": "^8.1.0",
